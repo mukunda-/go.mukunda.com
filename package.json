@@ -1,0 +1,22 @@
+{
+  "name": "go.mukunda.com",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node test-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/go.mukunda.com.git"
+  },
+  "author": "Mukunda Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/go.mukunda.com/issues"
+  },
+  "homepage": "https://github.com/go.mukunda.com#readme",
+  "description": "",
+  "devDependencies": {
+    "php-server": "^2.0.0"
+  }
+}
